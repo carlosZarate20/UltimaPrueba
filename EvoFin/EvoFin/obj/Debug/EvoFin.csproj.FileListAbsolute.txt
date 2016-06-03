@@ -1,0 +1,8 @@
+D:\EvoFin\EvoFin\bin\Debug\EvoFin.exe.config
+D:\EvoFin\EvoFin\bin\Debug\EvoFin.exe
+D:\EvoFin\EvoFin\bin\Debug\EvoFin.pdb
+D:\EvoFin\EvoFin\obj\Debug\EvoFin.csprojResolveAssemblyReference.cache
+D:\EvoFin\EvoFin\obj\Debug\EvoFin.Properties.Resources.resources
+D:\EvoFin\EvoFin\obj\Debug\EvoFin.csproj.GenerateResource.Cache
+D:\EvoFin\EvoFin\obj\Debug\EvoFin.exe
+D:\EvoFin\EvoFin\obj\Debug\EvoFin.pdb

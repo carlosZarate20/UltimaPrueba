@@ -1,0 +1,9 @@
+D:\EvoFin\EvoFinTest\bin\Debug\EvoFinTest.dll
+D:\EvoFin\EvoFinTest\bin\Debug\EvoFinTest.pdb
+D:\EvoFin\EvoFinTest\bin\Debug\EvoFin.exe
+D:\EvoFin\EvoFinTest\bin\Debug\EvoFin.pdb
+D:\EvoFin\EvoFinTest\obj\Debug\EvoFinTest.csprojResolveAssemblyReference.cache
+D:\EvoFin\EvoFinTest\obj\Debug\EvoFinTest.dll
+D:\EvoFin\EvoFinTest\obj\Debug\EvoFinTest.pdb
+D:\EvoFin\EvoFinTest\bin\Debug\nunit.framework.dll
+D:\EvoFin\EvoFinTest\bin\Debug\nunit.framework.xml
