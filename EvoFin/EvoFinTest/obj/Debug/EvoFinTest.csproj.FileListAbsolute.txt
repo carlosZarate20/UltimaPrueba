@@ -7,3 +7,12 @@ D:\EvoFin\EvoFinTest\obj\Debug\EvoFinTest.dll
 D:\EvoFin\EvoFinTest\obj\Debug\EvoFinTest.pdb
 D:\EvoFin\EvoFinTest\bin\Debug\nunit.framework.dll
 D:\EvoFin\EvoFinTest\bin\Debug\nunit.framework.xml
+D:\FIN\EvoFin\EvoFinTest\bin\Debug\EvoFinTest.dll
+D:\FIN\EvoFin\EvoFinTest\bin\Debug\EvoFinTest.pdb
+D:\FIN\EvoFin\EvoFinTest\bin\Debug\EvoFin.exe
+D:\FIN\EvoFin\EvoFinTest\bin\Debug\nunit.framework.dll
+D:\FIN\EvoFin\EvoFinTest\bin\Debug\EvoFin.pdb
+D:\FIN\EvoFin\EvoFinTest\bin\Debug\nunit.framework.xml
+D:\FIN\EvoFin\EvoFinTest\obj\Debug\EvoFinTest.csprojResolveAssemblyReference.cache
+D:\FIN\EvoFin\EvoFinTest\obj\Debug\EvoFinTest.dll
+D:\FIN\EvoFin\EvoFinTest\obj\Debug\EvoFinTest.pdb

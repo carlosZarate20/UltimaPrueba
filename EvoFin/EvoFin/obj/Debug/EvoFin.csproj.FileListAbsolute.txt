@@ -6,3 +6,6 @@ D:\EvoFin\EvoFin\obj\Debug\EvoFin.Properties.Resources.resources
 D:\EvoFin\EvoFin\obj\Debug\EvoFin.csproj.GenerateResource.Cache
 D:\EvoFin\EvoFin\obj\Debug\EvoFin.exe
 D:\EvoFin\EvoFin\obj\Debug\EvoFin.pdb
+D:\FIN\EvoFin\EvoFin\bin\Debug\EvoFin.exe.config
+D:\FIN\EvoFin\EvoFin\obj\Debug\EvoFin.exe
+D:\FIN\EvoFin\EvoFin\obj\Debug\EvoFin.pdb

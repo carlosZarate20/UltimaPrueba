@@ -100,7 +100,7 @@ namespace EvoFinTest
             car2.Marca = "Audi";
             car2.placa = 123;
 
-            Assert.AreEqual(car1, car2);
+            Assert.AreNotEqual(car1, car2);
 
         }
 
